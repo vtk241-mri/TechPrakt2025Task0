@@ -14,5 +14,7 @@ class Program
         double sum = number1 + number2;
 
         Console.WriteLine($"Сума чисел {number1} і {number2} дорівнює {sum}");
+
+        Console.ReadLine();
     }
 }
