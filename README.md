@@ -21,7 +21,6 @@
 
 У **практичній роботі №1** було використано такі команди Git
 
-```bash
 - [x] git init
 - [x] git status
 - [x] git add
@@ -30,6 +29,6 @@
 - [x] git push
 - [x] git pull
 - [ ] git branch
-```
+
 
 Виконав: _Мосійчук Ростислав_
