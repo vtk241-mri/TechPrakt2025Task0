@@ -16,6 +16,6 @@ class Program
         Console.WriteLine($"Сума чисел {number1} і {number2} дорівнює {sum}");
 
         Console.ReadLine();
-        // bla
+        // blaasd
     }
 }
